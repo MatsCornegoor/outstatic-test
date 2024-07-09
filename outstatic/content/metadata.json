@@ -1,6 +1,6 @@
 {
-  "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-  "generated": "2024-07-09T21:19:32.244Z",
+  "commit": "984f86beb3dd51e07bd00f64c7b99de8e9f97674",
+  "generated": "2024-07-09T21:20:46.064Z",
   "metadata": [
     {
       "__outstatic": {
@@ -136,6 +136,34 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "984f86beb3dd51e07bd00f64c7b99de8e9f97674",
+        "hash": "2931946690",
+        "path": "outstatic/content/posts/test-post.md"
+      },
+      "author": {
+        "name": "Mats Cornegoor",
+        "picture": "https://avatars.githubusercontent.com/u/58370037?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-09T21:32:12.308Z",
+      "slug": "test-post",
+      "status": "draft",
+      "tags": [
+        {
+          "label": "GitHub",
+          "value": "gitHub"
+        },
+        {
+          "label": "whoo",
+          "value": "whoo"
+        }
+      ],
+      "title": "test post"
     }
   ]
 }

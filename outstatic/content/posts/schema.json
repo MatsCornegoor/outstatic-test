@@ -26,6 +26,13 @@
           "label": "whoo"
         }
       ]
+    },
+    "images": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Images"
     }
   }
 }
